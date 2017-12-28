@@ -1,0 +1,50 @@
+*{
+  font-family: helvetica;
+}
+
+.header, .designedin{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+}
+
+h1, h2, h3, img{
+  font-weight: bold;
+}
+
+.header, #process, .designedin, #work, #team, #contact{
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+  font-size: 32px
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+}
+
+.link{
+  font-size: 18px;
+  color: white;
+}
+
+#c, .link{
+  color: white;
+}
+
+#c{
+  font-size: 11px;
+}
+
+.bottom{
+  background-color: dimgray;
+  text-align: left;
+}
